@@ -1,6 +1,4 @@
-# grayscale-schedule
+# grayscale-schedule (archived)
 
-Turns the Mac's screen grayscale every day at 20:00 via a launchd agent.
-
-- Install or reinstall: `./install.sh`
-- Manual control: `./grayscale on`, `./grayscale off`, `./grayscale status`
+Archived on 7 Nov 2026: the mood bot's Mac jobs now turn the screen grayscale at
+20:00 and back to color at 7:30 (`~/best/stash/telegram-bots/bots/mood/mac/`).
